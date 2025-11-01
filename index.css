@@ -16,6 +16,8 @@
   flex-direction: column;
   background-color: white;
   gap: 20px;
+  border: 1px black solid;
+  box-shadow: 10px 10px 0 black;
 }
 .main img {
   border-radius: 10px;
